@@ -3,4 +3,3 @@
 language="Korean English Japan"
 
 mkdir $language
-
